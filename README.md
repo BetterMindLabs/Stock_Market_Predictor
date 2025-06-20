@@ -1,0 +1,1 @@
+https://sastockmarketpredictor.streamlit.app/
